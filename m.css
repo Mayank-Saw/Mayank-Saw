@@ -1,0 +1,130 @@
+
+
+body { 
+        background-color:BLUE ; 
+            
+ } 
+   h1{
+    color: powderblue;
+    text-align: LEFT;
+    background-color: black;
+    text-shadow: 2px 2pX yellow,2px 2px blue;
+    font-size: Xx-large;    
+
+  }
+  H2{
+    text-shadow: 2px 2px YELLOW,;
+  }
+  p{
+    text-align: left;
+  }
+  span:hover {
+    color: WHITE;
+    text-align: center;
+    background-color:black;
+    ;
+    FONT-size: 110%;
+    text-decoration: none;
+     text-emphasis: blue;
+     ;
+  }
+  input {
+    background-color:white  ;
+    text-align: left;
+    color: black;
+  }
+  
+
+  lebel1 {
+    background-color:black;
+    font-size: x-large;
+    text-align: center;
+    text-decoration: none;
+    color:yellow;
+  }
+  head {
+    text-align: center;
+  }  
+  .SEARCH1{
+    background-color: chartreuse;
+  }
+#asar{
+  text-align: center;
+  
+}
+  #ram {
+    text-align: right;
+    position: fixed;
+
+  }
+  #shyam{
+    text-align: center;
+
+
+  }
+  #9{
+    border-radius: 50%;
+    background-color: chartreuse;
+  }
+  #L { 
+    widows: 50%;
+    background-color: black;
+    box-shadow: blue;
+    border: 5px ridge black;
+
+      
+
+  }
+  H2{
+    text-shadow: 2px 2PX red ;
+    font-size: xx-large;
+    background-color:black;
+  }
+  #P { 
+    widows: 40%;
+    box-shadow: 9px 8px 7px 7pX yellowgreen,9px 8px 8px black,9px 8px 8px black,9px 8px 8px black;
+    border-radius: 10%;
+    border: 8px ridge black;
+  
+  }
+  #19 {
+    font-size: xx-large;
+    background-color: red;
+    text-align: left;
+  }
+    #RAJU{
+      border: 14px ridge BLACK;
+    }
+    
+    
+    #seeta {
+      text-align: right;
+      position: fixed;
+  
+    }
+    #kaju{
+      text-align: right;
+      background-color: yellow;
+      
+    }
+    #s{
+      color: red;
+    }
+    lebel {
+      background-color:none;
+      font-size: x-large;
+      text-align: center;
+      text-decoration: none;
+      color:yellow;
+    }
+    #4 {
+      color: red;
+      background-color: yellow;
+    }
+    #ground{
+      color:powderblue;
+      text-align:start;
+      text-align:left ;
+      font-size:xx-large;
+      background-color:black;
+    }
